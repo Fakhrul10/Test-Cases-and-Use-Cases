@@ -1,2 +1,1 @@
-# ftest
-sdf
+# Test cases sample and format
